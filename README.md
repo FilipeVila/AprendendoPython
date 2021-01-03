@@ -1,2 +1,2 @@
-# EstudandoPython
-Estudando Python
+# AprendendoPython
+Aprendendo Python
