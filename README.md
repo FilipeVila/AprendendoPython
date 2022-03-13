@@ -1,2 +1,0 @@
-# AprendendoPython
-Aprendendo Python
